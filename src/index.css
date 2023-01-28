@@ -61,9 +61,7 @@ img {
   height: 18rem;
   width: 30rem;
 }
-.juealmnu {
-  flex-direction: column;
-}
+
 .product__details {
   padding: 0.5rem;
   display: flex;
